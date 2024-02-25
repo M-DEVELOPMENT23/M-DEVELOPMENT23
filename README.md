@@ -2,7 +2,7 @@
 
 <!--h1 without bottom border-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I'm+M-Development;"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I'm+M-Development;" style="transform: scale(1.2)"></a>
 </p>
 
 ## Contact
