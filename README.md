@@ -10,7 +10,7 @@
 
 
 
-<!--- stats (end) -->
+[<!--- stats (end) -->
 
 <!--- trophy (start) -->
 <div align=center>
@@ -23,7 +23,7 @@
 
 </p>        
 <!--- stats (end) -->
-
+](https://raw.githubusercontent.com/danigp17/danigp17/output/github-contribution-grid-snake.svg)
 
 
 <!-- Connect with me -->
