@@ -7,7 +7,7 @@
 
 ## 📌 Pinned Repositories
 
-[M-PropCreator]([link-to-repo](https://github.com/M-DEVELOPMENT23/m_propcreator))) - A Prop Creator for fivem servers
+[M-PropCreator]((https://github.com/M-DEVELOPMENT23/m_propcreator)) - A Prop Creator for fivem servers
 
 
 
