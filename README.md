@@ -4,14 +4,6 @@
 
 ---
 
-
-## 📌 Pinned Repositories
-
-[M-PropCreator]((https://github.com/M-DEVELOPMENT23/m_propcreator)) - A Prop Creator for fivem servers
-
-
-
----
 ## 🚀 About Me
 🔹 Passionate developer with experience in various technologies and programming languages.
 🔹 Focused on creating efficient and scalable solutions, with a particular interest in backend development and FiveM resources.
