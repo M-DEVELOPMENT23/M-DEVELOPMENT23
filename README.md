@@ -3,11 +3,19 @@
 </p>
 
 ---
+---
 
+## 📌 Pinned Repositories
+
+[M-PropCreator]([link-to-repo](https://github.com/M-DEVELOPMENT23/m_propcreator))) - A Prop Creator for fivem servers
+
+
+
+---
 ## 🚀 About Me
 🔹 Passionate developer with experience in various technologies and programming languages.
-🔹 Focused on creating efficient and scalable solutions.
-🔹 Enthusiastic about learning and improving every day.
+🔹 Focused on creating efficient and scalable solutions, with a particular interest in backend development and FiveM resources.
+🔹 Enthusiastic about learning and improving every day. I enjoy creating tools and resources that enhance community experiences.
 
 ## 📬 Contact
 [![Discord Server](https://img.shields.io/discord/587842272167723028?label=Join%20My%20Discord&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.com/invite/H7b8XtdJ5g)
