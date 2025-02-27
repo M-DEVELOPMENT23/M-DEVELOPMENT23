@@ -36,11 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=M-DEVELOPMENT23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-DEVELOPMENT23&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-DEVELOPMENT23&icon=3&color=6" alt="Profile Views" />
-</p>
 
