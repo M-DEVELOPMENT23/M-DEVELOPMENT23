@@ -1,81 +1,56 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+👋;I'm+M-Development;FiveM+Developer+%7C+Backend+Systems;Always+Improving+Everyday!">
-</p>
+# About Me
+
+Hi! I'm M-Development, a passionate developer focused on building modern and optimized solutions.  
+My goal is to deliver high-quality products that boost efficiency and improve user experience.
+
+## Main Interests
+
+- FiveM Resources & Scripts  
+- Backend Development (Node.js, Python)  
+- Discord Bots & Automation  
+- Community Tools  
 
 ---
 
-# 👨‍💻 About Me
+## Socials
 
-🚀 Hi! I'm **M-Development**, a passionate developer focused on building modern and optimized solutions. My goal is to deliver high-quality products that boost efficiency and improve user experience.
-
-✨ Main interests:
-- FiveM Resources & Scripts
-- Backend Development (Node.js, Python)
-- Discord Bots & Automation
-- Community Tools
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sxMVHnVhyH)
 
 ---
 
-# 🌐 Join My Discord Community
+## Tech Stack
 
-<p align="center">
-  <a href="https://discord.gg/sxMVHnVhyH">
-    <img src="https://img.shields.io/badge/Discord%20Server-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
----
-
-# 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-DEVELOPMENT23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=M-DEVELOPMENT23&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-DEVELOPMENT23&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=M-DEVELOPMENT23&theme=blue_navy&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-DEVELOPMENT23&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-# 🏆 GitHub Trophies
+## GitHub Trophies
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=M-DEVELOPMENT23&theme=radical&row=1&column=7&margin-h=15&margin-w=5"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=M-DEVELOPMENT23&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# Recent Activity
+## Top Contributed Repositories
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![](https://github-contributor-stats.vercel.app/api?username=M-DEVELOPMENT23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-⌨️ Most Used Languages:
-
-<!--START_SECTION:language-->
-<!--END_SECTION:language-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
