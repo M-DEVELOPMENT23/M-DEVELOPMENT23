@@ -64,20 +64,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=M-DEVELOPMENT23&theme=radical&hide_border=true"/>
 </p>
 
----
-
-# 🔥 Featured Projects  
-
-🚧 Currently working on:
-
-- Advanced FiveM Admin Panel  
-- Discord Utility Bots  
-- Optimized Backend Systems  
-
-⭐ More releases coming soon!
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
-</p>
